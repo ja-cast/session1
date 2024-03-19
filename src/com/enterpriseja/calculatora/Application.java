@@ -32,7 +32,7 @@ public class Application {
             System.out.println(person.getAge());
             System.out.println(person.getHeight());
 
-            System.out.println("Los datos de la segunda persona son");
+            System.out.println("Los datos de la segunda persona son:");
             System.out.println(person2.getName());
             System.out.println(person2.getAge());
             System.out.println(person2.getHeight());
